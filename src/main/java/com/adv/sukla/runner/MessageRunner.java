@@ -11,7 +11,8 @@ public class MessageRunner implements CommandLineRunner
 	public void run(String... args) throws Exception
 	{
 		// TODO Auto-generated method stub
-		System.out.println("DONE");
+		int i=10;
+		System.out.println("DONE"+i);
 		System.out.println("Hello Modified1q23");
 
 	}
